@@ -1,0 +1,28 @@
+/*Set divs to specified colors using hex or rgb values*/
+  div{
+    width:  200px;
+    height: 200px;
+    display: inline-block;
+    border: 1px solid black;
+
+  }
+/*set first dev to blue*/
+  .blue-box{
+    background-color: #5ac1fc;
+  }
+
+/*set second dev to green*/
+  .green-box{
+    background-color: green;
+
+/*set third dev to blue*/
+  }
+  .red-box{
+    background-color: indianred;
+
+  }
+
+body{
+  text-align:center;
+  font-family: 'Fredoka One', cursive;
+}

@@ -1,0 +1,17 @@
+img{
+  width: 330px;
+  border: 5px dotted blue;
+}
+h1{
+  color: blue;
+  font
+}
+.special{
+  color: green;
+}
+.caps{
+  text=transform: uppercase;
+}
+#highlight{
+  background-color: yellow;
+}
